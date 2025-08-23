@@ -1,0 +1,11 @@
+names:
+  - 'Helmet-White'
+  - 'Helmet-Yellow'
+  - 'Helmet-Blue'
+  - 'Helmet-Red'
+  - 'Helmet-Orange'
+  - 'Reflective-Jacket'
+nc: 6
+train: ../train/images
+val: ../valid/images
+test: ../test/images
