@@ -10,12 +10,6 @@ HardHatVision is a **Computer Vision project** powered by **YOLOv8** for detecti
 - Real-time inference with YOLOv11.
 - Easy retraining on custom datasets.
 
----
-
-## 📂 Project Structure
-
----
-
 ## 📊 Dataset
 This project uses a **custom dataset** in YOLO format (images + labels).  
 
@@ -26,15 +20,16 @@ This project uses a **custom dataset** in YOLO format (images + labels).
 ## 🤖 Model
 We fine-tuned **YOLOv11** on the PPE dataset.  
 
-👉 [Download Model](Phttps://drive.google.com/drive/folders/1JMpMdypmEFdpfm66wOnusO3VKSc93HKb?usp=drive_link)  
+👉 [Download Model](https://drive.google.com/drive/folders/1JMpMdypmEFdpfm66wOnusO3VKSc93HKb?usp=drive_link)  
 
 - Base model: YOLO11s  
-- Trained model: HardHatVision PPE dataset  
+- Trained model: Dataset900 base on HardHatVision PPE dataset  
 
 ---
 
 ## ⚙️ Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Yor4-173/HardHatVison.git
    cd HardHatVision
+   pip install -r requirement.txt
