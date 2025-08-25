@@ -1,6 +1,6 @@
 # HardHatVision
 
-HardHatVision is a **Computer Vision project** powered by **YOLOv8** for detecting **safety helmets (hard hats)** and **reflective vests** to support workplace safety and compliance monitoring.
+HardHatVision is a **Computer Vision project** powered by **YOLOv11** for detecting **safety helmets (hard hats)** and **reflective vests** to support workplace safety and compliance monitoring.
 
 ---
 
